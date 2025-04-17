@@ -57,6 +57,35 @@ header {
   flex-direction: column;
   margin: 50px;;
 }
+table{
+  margin: auto;
+  width: 500px;
+  height: 500px;
+}
+table{
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: rgb(124, 82, 119);
+}
+.link{
+  text-decoration: none;
+  color: rgb(13, 245, 86);
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+th{
+  background-color: rgb(124, 82, 119);
+  color: black; 
+  font-size: 20px;
+}
+td{
+  background-color: rgb(124, 82, 119);
+  color: black;
+  font-size: 20px;
+}
 
 footer{
   margin-top: 50px;
